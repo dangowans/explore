@@ -24,6 +24,7 @@ items:
  - nic-delhi/AarogyaSetu_Android
  - govCMS/govCMS
  - coloradodigitalservice/exposure-notifications-metrics-public
+ - cityssm/contract-expiration-tracker
 display_name: Government apps
 created_by: jbjonesjr
 image: government.png
